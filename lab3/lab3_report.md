@@ -24,6 +24,7 @@ Date of finished: 15.03.2026
 ![](prometheus.png)
 
 Запуск Node Exporter:
+
 4. Запустила контейнер Node Exporter для сбора системных метрик
 ![](pwrshll.png)
 
@@ -35,17 +36,17 @@ Date of finished: 15.03.2026
 5. Запуск Prometheus
 
 Создала том для данных Prometheus и общую сеть
-![](tom)
-![](run)
-![](local)
+![](tom.png)
+![](run.png)
+![](local.png)
 
 6. Запуск Grafana:
 Создала том для данных Grafana.
 Запустила контейнер Grafana.
-![](rungrafana)
+![](rungrafana.png)
 
 Проверила работу grafana
-
+![](grafana.png)
 
 7. Настройка Grafana:
 Добавила источник данных Prometheus:
@@ -57,7 +58,7 @@ Connections → Add new
 URL: http://prometheus:9090
 Save & Test
 
-![](success)
+![](success.png)
 
 Создала дашборд:
 Create → Dashboard → Add visualization
@@ -65,20 +66,20 @@ Create → Dashboard → Add visualization
 Добавить метрику: node_cpu_seconds_total
 Сохранить дашборд
 
-![](metric)
+![](metric.png)
 
 8. Тестирование системы:
 Проверила все контейнеры: docker ps
-![](dockerps)
+![](dockerps.png)
 
 Открыла Prometheus и убедилась, что метрики собираются
-![](metrics)
+![](metrics.png)
 
 Открыла Grafana и проверила отображение графиков
 
 Создала несколько графиков для разных метрик (CPU, память, диск)
 
-![](connetcions)
+![](connetcions.png)
 
 
 
