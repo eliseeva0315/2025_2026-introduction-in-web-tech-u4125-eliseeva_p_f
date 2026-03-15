@@ -21,6 +21,13 @@ Date of finished: 15.03.2026
 
 1. Создала папку prometheus для конфигурации
 2. Создала файл prometheus/prometheus.yml
+
+![](prometheus)
+
 Запуск Node Exporter:
-3. Запустила контейнер Node Exporter для сбора системных метрик
+4. Запустила контейнер Node Exporter для сбора системных метрик
+![](pwrshll)
+![](exporter)
+
+
 
