@@ -4,7 +4,7 @@ Course: [Введение в веб технологии](https://itmo-ict-facul
 Year: 2025/2026\
 Group: U4125\
 Author: Eliseeva Polina Fedorovna\
-Lab: Lab0\
+Lab: Lab1\
 Date of create: 11.03.2026 \
 Date of finished: 12.03.2026
 
