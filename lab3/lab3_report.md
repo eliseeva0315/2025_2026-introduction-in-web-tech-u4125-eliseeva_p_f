@@ -86,6 +86,7 @@ Create → Dashboard → Add visualization
 
 ![](dashboard.png)
 
-
+Все сервисы успешно запущены и обмениваются метриками. 
+Grafana получает данные из Prometheus и отображает их на дашборде.
 
 
