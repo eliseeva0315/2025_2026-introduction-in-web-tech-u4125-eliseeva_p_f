@@ -38,7 +38,7 @@ Date of finished: 15.03.2026
 Создала том для данных Prometheus и общую сеть
 ![](tom.png)
 ![](run.png)
-![](local.png)
+![](localhost.png)
 
 6. Запуск Grafana:
 Создала том для данных Grafana.
@@ -53,18 +53,23 @@ Date of finished: 15.03.2026
 Connections → Add new
 
 Выбрать Prometheus
-![](connetcions)
+![](connetcions.png)
 
 URL: http://prometheus:9090
+
 Save & Test
 
 ![](success.png)
 
 Создала дашборд:
+
 Create → Dashboard → Add visualization
-Выбрать источник данных Prometheus
-Добавить метрику: node_cpu_seconds_total
-Сохранить дашборд
+
+Выбрала источник данных Prometheus
+
+Добавила метрику: node_cpu_seconds_total
+
+Сохранила дашборд
 
 ![](metric.png)
 
@@ -79,8 +84,7 @@ Create → Dashboard → Add visualization
 
 Создала несколько графиков для разных метрик (CPU, память, диск)
 
-![](connetcions.png)
-
+![](dashboard.png)
 
 
 
