@@ -11,7 +11,7 @@ Date of finished: 15.03.2026
 Настройка CI/CD пайплайна с GitHub Actions:
 
 Подготовка проекта:
-Создала новый репозиторий и файлы app.py, requirements.txt, Dockerfile
+1. Создала новый репозиторий и файлы app.py, requirements.txt, Dockerfile
 
 Создать аккаунт на Docker Hub (если нет)
 Создать новый репозиторий на Docker Hub для вашего образа
