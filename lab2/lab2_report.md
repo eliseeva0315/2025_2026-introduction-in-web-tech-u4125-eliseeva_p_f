@@ -50,5 +50,5 @@ DOCKER_PASSWORD - ваш пароль или токен доступа Docker Hu
 ![](pipeline)
 
 8.Убедиться, что образ появился в Docker Hub
-<img src="image.png" width="900">
+<img src="image.png" width="900"
 9. Проверить логи выполнения каждого шага
