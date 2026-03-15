@@ -8,8 +8,12 @@ Lab: Lab0\
 Date of create: 15.03.2026 \
 Date of finished: 15.03.2026
 
-Настройка CI/CD пайплайна с GitHub Actions:
+Лабораторная работа №2
+Настройка CI/CD с использованием GitHub Actions
+Цель работы
 
+Изучить основы автоматизации сборки и публикации Docker-образов с использованием CI/CD.
+Настроить pipeline GitHub Actions, который автоматически собирает Docker-образ приложения и публикует его в Docker Hub при каждом push в репозиторий.
 Подготовка проекта:
 1. Создала новый репозиторий и файлы app.py, requirements.txt, Dockerfile
 
