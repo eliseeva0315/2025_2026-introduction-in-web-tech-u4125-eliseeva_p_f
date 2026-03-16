@@ -21,7 +21,8 @@ Date of finished: 15.03.2026
 1. Создала новый репозиторий и файлы app.py, requirements.txt, Dockerfile
 ![](rep)
 
-2. Создала новый репозиторий на Docker Hub для хранения образа
+2. Создала новый репозиторий на Docker Hub для хранения образа.
+Ссылка: https://github.com/eliseeva0315/devops-eliseeva-cicd 
 
 ![](dockerrep)
 
