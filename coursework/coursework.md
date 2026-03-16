@@ -53,6 +53,7 @@ site_url - URL сайта (если планируете публикацию)
 <img width="472" height="57" alt="image" src="https://github.com/user-attachments/assets/5d604256-15c3-4996-b908-d752475b8617" />
 
 Добавлены доп страницы с резюме и достижениями:
+
 <img width="466" height="55" alt="image" src="https://github.com/user-attachments/assets/2dfa2250-e48e-4a7e-a00f-79f362165dde" />
 <img width="469" height="54" alt="image" src="https://github.com/user-attachments/assets/311f500b-a613-4960-88e9-c40159de4ae2" />
 
