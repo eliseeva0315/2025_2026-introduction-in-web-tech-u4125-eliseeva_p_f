@@ -14,7 +14,7 @@ Date of finished: 15.03.2026
 ## Цель работы
 
 Изучить основы автоматизации сборки и публикации Docker-образов с использованием CI/CD. Настроить pipeline GitHub Actions, который автоматически собирает Docker-образ приложения и публикует его в Docker Hub при каждом push в репозиторий.
-
+Репозиторий: https://github.com/eliseeva0315/devops-eliseeva-cicd 
 ## Ход работы
 
 Подготовка проекта
@@ -22,7 +22,6 @@ Date of finished: 15.03.2026
 ![](rep)
 
 2. Создала новый репозиторий на Docker Hub для хранения образа.
-Ссылка: https://github.com/eliseeva0315/devops-eliseeva-cicd 
 
 ![](dockerrep)
 
