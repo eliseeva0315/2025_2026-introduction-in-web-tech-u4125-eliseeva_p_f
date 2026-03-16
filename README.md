@@ -13,5 +13,7 @@ Author: Елисеева Полина Федоровна (@peg7mt)
 
 ### Курсовая работа:
 - "Создание персонального сайта с использованием MkDocs"
+
 Ссылка на сайт: https://eliseeva0315.github.io/polinaprostories-site/
+
 Репозиторий: https://github.com/eliseeva0315/polinaprostories-site
